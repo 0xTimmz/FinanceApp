@@ -1,12 +1,126 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\tolalere\\OneDrive - Axxess Technology Solutions\\Desktop\\FinanceApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61405FB1-6FA1-9E84-021A-0E1D9B5352F3}|FinanceApp\\FinanceApp.csproj|c:\\users\\tolalere\\onedrive - axxess technology solutions\\desktop\\financeapp\\financeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61405FB1-6FA1-9E84-021A-0E1D9B5352F3}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61405FB1-6FA1-9E84-021A-0E1D9B5352F3}|FinanceApp\\FinanceApp.csproj|c:\\users\\tolalere\\onedrive - axxess technology solutions\\desktop\\financeapp\\financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61405FB1-6FA1-9E84-021A-0E1D9B5352F3}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61405FB1-6FA1-9E84-021A-0E1D9B5352F3}|FinanceApp\\FinanceApp.csproj|c:\\users\\tolalere\\onedrive - axxess technology solutions\\desktop\\financeapp\\financeapp\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61405FB1-6FA1-9E84-021A-0E1D9B5352F3}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61405FB1-6FA1-9E84-021A-0E1D9B5352F3}|FinanceApp\\FinanceApp.csproj|c:\\users\\tolalere\\onedrive - axxess technology solutions\\desktop\\financeapp\\financeapp\\data\\financeappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61405FB1-6FA1-9E84-021A-0E1D9B5352F3}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\data\\financeappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61405FB1-6FA1-9E84-021A-0E1D9B5352F3}|FinanceApp\\FinanceApp.csproj|c:\\users\\tolalere\\onedrive - axxess technology solutions\\desktop\\financeapp\\financeapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61405FB1-6FA1-9E84-021A-0E1D9B5352F3}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61405FB1-6FA1-9E84-021A-0E1D9B5352F3}|FinanceApp\\FinanceApp.csproj|c:\\users\\tolalere\\onedrive - axxess technology solutions\\desktop\\financeapp\\financeapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61405FB1-6FA1-9E84-021A-0E1D9B5352F3}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tolalere\\OneDrive - Axxess Technology Solutions\\Desktop\\FinanceApp\\FinanceApp\\Program.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Program.cs",
+              "ToolTip": "C:\\Users\\tolalere\\OneDrive - Axxess Technology Solutions\\Desktop\\FinanceApp\\FinanceApp\\Program.cs",
+              "RelativeToolTip": "FinanceApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:06:39.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tolalere\\OneDrive - Axxess Technology Solutions\\Desktop\\FinanceApp\\FinanceApp\\appsettings.json",
+              "RelativeDocumentMoniker": "FinanceApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\tolalere\\OneDrive - Axxess Technology Solutions\\Desktop\\FinanceApp\\FinanceApp\\appsettings.json",
+              "RelativeToolTip": "FinanceApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-09T16:18:44.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\tolalere\\OneDrive - Axxess Technology Solutions\\Desktop\\FinanceApp\\FinanceApp\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\tolalere\\OneDrive - Axxess Technology Solutions\\Desktop\\FinanceApp\\FinanceApp\\Models\\Expense.cs",
+              "RelativeToolTip": "FinanceApp\\Models\\Expense.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T20:33:16.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FinanceAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\tolalere\\OneDrive - Axxess Technology Solutions\\Desktop\\FinanceApp\\FinanceApp\\Data\\FinanceAppContext.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Data\\FinanceAppContext.cs",
+              "ToolTip": "C:\\Users\\tolalere\\OneDrive - Axxess Technology Solutions\\Desktop\\FinanceApp\\FinanceApp\\Data\\FinanceAppContext.cs",
+              "RelativeToolTip": "FinanceApp\\Data\\FinanceAppContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T11:24:48.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tolalere\\OneDrive - Axxess Technology Solutions\\Desktop\\FinanceApp\\FinanceApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinanceApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tolalere\\OneDrive - Axxess Technology Solutions\\Desktop\\FinanceApp\\FinanceApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "FinanceApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-06T20:30:31.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tolalere\\OneDrive - Axxess Technology Solutions\\Desktop\\FinanceApp\\FinanceApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tolalere\\OneDrive - Axxess Technology Solutions\\Desktop\\FinanceApp\\FinanceApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "FinanceApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-06T20:30:16.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
