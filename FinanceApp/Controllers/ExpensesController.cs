@@ -12,6 +12,12 @@ namespace FinanceApp.Controllers
         }
         public IActionResult Index()
         {
+            var expenses = _context.Expenses.ToList();
+            return View(expenses);
+        }
+
+        public IActionResult Create()
+        {
             return View();
         }
     }
